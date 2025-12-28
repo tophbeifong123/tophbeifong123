@@ -21,6 +21,6 @@ Web development and Game Game developer
 <a href="https://www.github.com/tophbeifong123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tophbeifong123?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a>
 
+![re-zero-rem](https://github.com/user-attachments/assets/5e61aaea-8d0d-49ad-b733-28c0b3e2fccd) ![0de4ed7b6fee7424fdf19444aef4c9a5](https://github.com/user-attachments/assets/3e10dfd4-7f96-428f-bcbc-8e2a8e443ded) 
 
 
-https://i.pinimg.com/originals/63/52/7f/63527f6a72ab3790575cc5fc42b265c1.gif
