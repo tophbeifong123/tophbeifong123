@@ -6,7 +6,7 @@
     <img alt="Thumeena's GitHub Streak" src="https://streak-stats.demolab.com?user=tophbeifong123&theme=radical&hide_border=true" height="192" />
   </a>
   <a href="https://github.com/tophbeifong123">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=tophbeifong123&layout=compact&theme=radical&hide_border=true&v=1" height="192" />
+    <img alt="Top Langs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tophbeifong123&theme=radical" height="192" />
   </a>
 </p>
 ---
